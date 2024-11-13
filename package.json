@@ -1,7 +1,7 @@
 {
   "name": "spot",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "start": "expo start --dev-client",
     "android": "expo run:android",
@@ -10,8 +10,11 @@
   },
   "dependencies": {
     "@expo/metro-runtime": "~3.2.3",
+    "@react-native-firebase/app": "^21.4.0",
     "expo": "~51.0.28",
+    "expo-notifications": "~0.28.19",
     "expo-status-bar": "~1.12.1",
+    "firebase": "^11.0.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-native": "0.74.5",
