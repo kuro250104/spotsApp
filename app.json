@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "spot",
+    "slug": "spot",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "de2a587f-bc18-4506-8c08-084127e43c66"
+      }
+    }
+  }
+}
